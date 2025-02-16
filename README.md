@@ -1,3 +1,4 @@
+<img src="logo.png" alt="GitHub Banner" width="100%" />
 <h1 align="left">Hello World!, I'm Jerson, a  Web Developer 👋</h1>
 
 ###
@@ -73,4 +74,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrjerson/Mrjerson/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mrjerson/Mrjerson/output/github-snake.svg" />
 </picture>
-###
+

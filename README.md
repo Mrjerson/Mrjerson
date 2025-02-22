@@ -3,17 +3,11 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<h2 align="left">👨‍💻  About me</h2>
+<p align="center">Passionate about building dynamic, user-friendly applications, I thrive on turning ideas into functional, scalable solutions. With expertise in <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>, <strong>Node</strong>, <strong>Different Javascript libraries and Frameworks</strong>, I’m always eager to explore new technologies and stay ahead in this ever-evolving field. Whether it’s experimenting with emerging tools, diving into cloud services, or integrating AI, I’m driven by curiosity and a love for learning. Let’s connect and create something amazing together!</p>
 
 ###
 
 <br clear="both">
-
-<p align="left">🌐 Proficient in both front-end and back-end technologies.<br><br>    🔍 Strong problem-solving skills.<br><br>    ✨ Detail-oriented with a focus on user experience.<br><br>    🤝 Effective collaborator.</p>
 
 ###
 
@@ -61,17 +55,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrjerson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrjerson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mrjerson&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mrjerson&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrjerson/Mrjerson/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrjerson/Mrjerson/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Mrjerson/Mrjerson/output/github-snake.svg" />
 </picture>
 
+###

@@ -3,6 +3,10 @@
 
 ###
 
+<br clear="both">
+
+###
+
 <p align="center">Passionate about building dynamic, user-friendly applications, I thrive on turning ideas into functional, scalable solutions. With expertise in <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>, <strong>Node</strong>, <strong>Different Javascript libraries and Frameworks</strong>, I’m always eager to explore new technologies and stay ahead in this ever-evolving field. Whether it’s experimenting with emerging tools, diving into cloud services, or integrating AI, I’m driven by curiosity and a love for learning. Let’s connect and create something amazing together!</p>
 
 ###
